@@ -225,4 +225,4 @@ KSI Explorer is available as a full free version with all features and updates i
 Unlock the full potential of your document management today with KSI Explorer! Download now and experience the convenience of electronic signatures.
 
 ---
-**Last updated:** 2026-10-13 08:34:15 UTC
+**Last updated:** 2026-10-13 16:30:36 UTC
